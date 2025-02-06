@@ -17,7 +17,7 @@ A Flutter-based mobile application that provides real-time weather updates based
 ## Tech Stack  
 - *Frontend:* Flutter  
 - *APIs:* Google Maps API, OpenWeather API (or any weather API you use)  
-- *State Management:* Provider / Riverpod / GetX (whichever you use)  
+- *State Management: Block  
 
 ## Installation  
 1. Clone the repository:  
